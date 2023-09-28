@@ -9,6 +9,7 @@ os.system('cls')
 
 from datetime import date
 import datetime
+import time
 
 
 print('Hello! I am here to tell you how old you are in seconds. Let us start with the basics, what year were you born in?')
@@ -24,3 +25,5 @@ birthdate = datetime.date(myYear, myMonth, myDay)
 
 ageInSeconds = (date.today() - birthdate).total_seconds()
 print('Thanks! According to the brain of my hyper intelligent creator, you are ' + str(ageInSeconds) + ' seconds old! Nice man, that is a pretty large number! Keep it up!')
+
+time.sleep(5)
