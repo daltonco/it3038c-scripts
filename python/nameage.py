@@ -1,0 +1,5 @@
+print('What is your name?')
+myName = input()
+print('Hello, ' + myName + '. That is a good name. Westside or Eastside?')
+mySide = input()
+print(mySide + '? Sucka, WEEEEEEESTSIIIIIIIIIDE')
