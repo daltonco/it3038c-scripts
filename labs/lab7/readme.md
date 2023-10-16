@@ -24,3 +24,4 @@ After this, run the script
 .\lab7.ps1
 ```
 
+An html file with your info, favicon, and a pop-up window will be genereated and opened in your default web browser.
