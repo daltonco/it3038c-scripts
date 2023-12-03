@@ -1,11 +1,11 @@
 # Final Project - Python Web Scraper
 
-**Description
+## Description
 
 My final project is a web scraper using Python to search for jobs based on provided search criteria, including position title, company name, and position location. If job data matches the search criteria it will be saved to the jobs.txt file located within the respository, and opens it for the user to read once all data has been read and saved.
 
 
-**Instructions to Run
+## Instructions to Run
 
 1. Clone the repository to your local machine.
 
@@ -36,6 +36,17 @@ python -m pip install BeautifulSoup4
 ```
 
 7. From CMD, run the script
+
 ```python
 jobscraper.py
 ```
+
+8. When prompted for search criteria, enter a string you would like the script to find in the job description. Examples include: python, moss, software.
+
+## References
+
+* [SizeLimits](https://github.com/ai/size-limit/blob/main/README.md)
+  
+* [BeautifulSoup Web Scraper](https://realpython.com/beautiful-soup-web-scraper-python/)
+  
+* [RealPython](https://realpython.github.io/fake-jobs/)
