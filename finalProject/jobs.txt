@@ -1,0 +1,32 @@
+Position: Python Programmer (Entry-Level)
+Company: Moss, Duncan and Allen
+Location: Port Sara, AE
+
+Position: Broadcast engineer
+Company: Morgan, Butler and Bennett
+Location: Loribury, AA
+
+Position: Designer, multimedia
+Company: Pierce-Herrera
+Location: South Timothyburgh, AP
+
+Position: Bonds trader
+Company: Morgan, White and Macdonald
+Location: Port Coryton, AE
+
+Position: Ophthalmologist
+Company: Fisher, Ryan and Coleman
+Location: Wilsonmouth, AA
+
+Position: Engineer, automotive
+Company: Martinez-Berry
+Location: New Jeffrey, AP
+
+Position: Field seismologist
+Company: Howard Group
+Location: Seanfurt, AA
+
+Position: Software Developer (Python)
+Company: Moreno-Rodriguez
+Location: Martinezburgh, AE
+
