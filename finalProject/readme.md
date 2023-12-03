@@ -2,7 +2,7 @@
 
 ## Description
 
-My final project is a web scraper using Python to search for jobs based on provided search criteria, including position title, company name, and position location. If job data matches the search criteria it will be saved to the jobs.txt file located within the respository, and opens it for the user to read once all data has been read and saved.
+My final project is a web scraper using Python to search for jobs based on provided search criteria, including position title, company name, and position location. If job data matches the search criteria it will be saved to the jobs.txt file located within the respository, and opens it for the user to read once all data has been read and saved. This type of script can save users a ton of time in searching for job data. With some additional scripting, this could even been used to search for job positions across multiple websites, preventing the user from search through each page individually.
 
 
 ## Instructions to Run
