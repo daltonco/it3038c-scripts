@@ -1,10 +1,38 @@
+Position: Senior Python Developer
+Company: Payne, Roberts and Davis
+Location: Stewartbury, AA
+
 Position: Software Engineer (Python)
 Company: Garcia PLC
 Location: Ericberg, AE
 
+Position: Python Programmer (Entry-Level)
+Company: Moss, Duncan and Allen
+Location: Port Sara, AE
+
+Position: Python Programmer (Entry-Level)
+Company: Cooper and Sons
+Location: West Victor, AE
+
 Position: Software Developer (Python)
 Company: Adams-Brewer
 Location: Brockburgh, AE
+
+Position: Python Developer
+Company: Rivera and Sons
+Location: East Michaelfort, AA
+
+Position: Back-End Web Developer (Python, Django)
+Company: Stewart-Alexander
+Location: South Kimberly, AA
+
+Position: Back-End Web Developer (Python, Django)
+Company: Jackson, Ali and Mckee
+Location: New Elizabethside, AA
+
+Position: Python Programmer (Entry-Level)
+Company: Mathews Inc
+Location: Robertborough, AP
 
 Position: Software Developer (Python)
 Company: Moreno-Rodriguez
